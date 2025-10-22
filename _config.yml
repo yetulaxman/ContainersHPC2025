@@ -1,0 +1,15 @@
+title: Using Containers in Supercomputing Environment
+
+plugins:
+  - jekyll-sitemap
+
+collections:
+   hands-on:
+        output: true
+
+defaults:
+  -
+    scope:
+      path: "_hands-on"
+    values:
+      layout: "default"
