@@ -1,6 +1,6 @@
 ---
 topic: docker
-title: Tutorial5(bonus) - WGS analysis with DeepVariant container 
+title: Tutorial4(bonus) - WGS analysis with DeepVariant container 
 ---
 
 ## Analysis of whole genome sequencing (WGS) data using DeepVariant Apptainer (aka singularity) container
