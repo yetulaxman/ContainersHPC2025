@@ -7,7 +7,7 @@ title: Tutorial1 - Launch custom Jupyter notebook
 
 > This tutorial is done on **Puhti and its web interface**, which requires that:
 
-- You have a [user account at CSC](https://docs.csc.fi/accounts/how-to-create-new-user-account/).
+- You have a [user account with SSH keys set up on Puhti](https://docs.csc.fi/accounts/how-to-create-new-user-account/).
 - Your account belongs to a project [that has access to the Puhti service](https://docs.csc.fi/accounts/how-to-add-service-access-for-project/).
 
 
@@ -41,7 +41,7 @@ Upon succesful installation, the executables of the Jupyter notebook will be ava
 You can download an example Python notebook to perform basic data analysis tasks inside the installed Jupyter notebook as below: 
 ```bash
 cd /scratch/project_200xxxx/$USER
-wget https://a3s.fi/biocontainers2024/course_notebook.tar.gz
+wget https://a3s.fi/biocontainers2025/course_notebook.tar.gz
 tar -xavf course_notebook.tar.gz
 ```
 
