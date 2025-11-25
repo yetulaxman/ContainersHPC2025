@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: Using Containers in Supercomputing Environment
 author: CSC Training
@@ -51,6 +50,7 @@ author: CSC Training
 1. [{{ hands-on.title }}]({{ hands-on.url | relative_url }})
 {% endif %}
 {% endfor %}
+
 =======
 ---
 title: Using Containers in Supercomputing Environment
