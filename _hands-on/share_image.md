@@ -61,7 +61,7 @@ We have to sometimes prepare custom images to meet our needs either by building 
     Push your image finally as below:
  
      ```bash
-      docker login # authenticate yourself using DockerHub credentials
+      docker login -u <username> # authenticate yourself using DockerHub credentials
       docker push your-dockerhub-user-name/repo-name[:tag]  # docker push your-dockerhub-user-name/fastqc-vim:test
       ```
     Once the push  to repository is successful, your image is now available for everyone to use. Go to your profile page on the DockerHub  to view  your new docker 
