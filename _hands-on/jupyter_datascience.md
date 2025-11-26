@@ -49,8 +49,7 @@ tar -xavf course_notebook.tar.gz
 
 1. Login to [Puhti web interface](https://www.puhti.csc.fi)
 2. Login with CSC/HAKA/VIRTU credentials 
-3. Once login is successful, select "Jupyter" icon from the pinned apps on the landing page.  Then open the Jupyter notebook and use the following settings:
-    Reservation: use course reservation if available.  
+3. Once login is successful, select "Jupyter" icon from the pinned apps on the landing page.  Then open the Jupyter notebook and use the following settings: 
     Project: project_2003682  
     Partition: small  
     Number of CPU cores: 2  
@@ -58,13 +57,12 @@ tar -xavf course_notebook.tar.gz
     Local disk: 0  
     Time: 0:45:00  
     Python: custom path  
-    Custom Python interpreter: /projappl/project_2003682/$USER/Notebook/bin/python  (please replace $USER with your CSC username)
+    Custom Python interpreter: /projappl/project_2003682/$USER/Notebook/bin/python  (replace $USER with your CSC username)
     Working directory: /scratch/project_2003682/  
     and finally "Launch" notebook  
    
- 4. This may take a while before seeing "Connect to Jupyter" button upon successful launching of notebook. Once Jupyter notebook is opened, navigate to your own $USER area (under /scratch/project_200xxxx/) where you have downloaded Python notebook earlier. Finally, click "explore_datascience.ipynb" to open a Python notebook on your browser.
+ 5. This may take a while before seeing "Connect to Jupyter" button upon successful launching of notebook. Once Jupyter notebook is opened, navigate to your own $USER area (under /scratch/project_200xxxx/) where you have downloaded Python notebook earlier. Finally, click "explore_datascience.ipynb" to open a Python notebook on your browser.
 
-‼️  Please note that the course reservation (name: container_course) field on Puhti web interface will only on the course day(s) for the members of course project
 
 ###  Useful CSC documentation
 
