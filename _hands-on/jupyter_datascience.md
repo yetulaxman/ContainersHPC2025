@@ -48,7 +48,7 @@ tar -xavf course_notebook.tar.gz
 ## Launch the installed Jupyter notebook from the Puhti web interface
 
 1. Login to [Puhti web interface](https://www.puhti.csc.fi)
-2. Login with CSC/HAKA/VIRTU credentials 
+2. Login with CSC/HAKA/VIRTU credentials plus MFA 
 3. Once login is successful, select "Jupyter" icon from the pinned apps on the landing page.  Then open the Jupyter notebook and use the following settings: 
     Project: project_2003682  
     Partition: small  
