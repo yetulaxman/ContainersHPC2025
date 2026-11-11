@@ -7,11 +7,11 @@ title: Tutorial1 - Running applications in containers
 
 💬 In this tutorial, we will get familiar with the basic usage of Apptainer (previously Singularity) containers.
 
-In normal testing it is best to use [interactive sessions](https://docs.csc.fi/computing/running/interactive-usage/). However, during courses Puhti `ìnteractive` partition can get congested, so these exercises have been designed to be light so you can run them in the login node.
+In normal testing it is best to use [interactive sessions](https://docs.csc.fi/computing/running/interactive-usage/). However, during courses Roihu `ìnteractive` partition can get congested, so these exercises have been designed to be light so you can run them in the login node.
 
 ## Getting started
 
-Log into Puhti.
+Log into Roihu.
 
 
 Download a test container image from Allas:
