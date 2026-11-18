@@ -18,7 +18,7 @@ author: CSC Training
 {% endfor %}
 
 ## 2. Building and Using HPC Containers
-### Slides:  [Basic Usage of Apptainer Containers](https://a3s.fi/biocontainers2025/Basic_usage_of_Apptainer.html)
+### Slides:  [Basic Usage of Apptainer Containers](https://a3s.fi/biocontainers2026/Basic_usage_of_Apptainer.html)
 ### Slides:  [Building Apptainer/Singularity container images](https://a3s.fi/biocontainers2025/Building_container_images.html)
 
 ###  Tutorials and exercises
